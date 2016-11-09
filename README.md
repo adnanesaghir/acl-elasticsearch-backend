@@ -6,7 +6,7 @@ An Elasticsearch backend for [NODE ACL](https://github.com/OptimalBits/node_acl)
 #Installation
 
 ```javascript
-npm install acl-elasticsearch
+npm install acl-elasticsearch-backend
 ```
 
 #How to use it
@@ -17,7 +17,7 @@ Usage sample:
 'use strict';
 
 var Elasticsearch = require('elasticsearch');
-var AclEsBackend = require('acl-elasticsearch');
+var AclEsBackend = require('acl-elasticsearch-backend');
 var Acl = require('acl');
 
 var client = new Elasticsearch.Client({
