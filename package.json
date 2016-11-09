@@ -1,5 +1,5 @@
 {
-  "name": "acl-elasticsearch",
+  "name": "acl-elasticsearch-backend",
   "version": "1.0.0",
   "description": "An Elasticsearch backend for node_acl",
   "keywords": [
