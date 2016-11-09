@@ -1,19 +1,19 @@
 {
   "name": "acl-elasticsearch-backend",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "An Elasticsearch backend for node_acl",
   "keywords": [
     "acl",
     "elasticsearch",
     "middleware"
   ],
-  "repository": "git@github.com:adnanesaghir/node_acl_elasticsearch.git",
+  "repository": "git@github.com:adnanesaghir/acl-elasticsearch-backend.git",
   "author": "CRAB <crab@thomsonreuters.com>",
   "contributors": [
     "Adnane SAGHIR <adnane.saghir@gmail.com>",
     "Kiettisak Angkanawin <scabamaga@gmail.com>"
   ],
-  "homepage": "https://github.com/adnanesaghir/node_acl_elasticsearch",
+  "homepage": "https://github.com/adnanesaghir/acl-elasticsearch-backend",
   "engines": {
     "node": ">= 0.4.1"
   },
