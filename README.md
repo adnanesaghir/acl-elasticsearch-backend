@@ -1,5 +1,5 @@
-node_acl_elasticsearch
-======================
+acl_elasticsearch_backend
+=========================
 
 An Elasticsearch backend for [NODE ACL](https://github.com/OptimalBits/node_acl)
 
