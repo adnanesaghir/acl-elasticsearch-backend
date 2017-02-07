@@ -7,7 +7,7 @@
     "elasticsearch",
     "middleware"
   ],
-  "repository": "git@github.com:adnanesaghir/acl-elasticsearch-backend.git",
+  "repository": "git@github.com:jeroenbe/acl-elasticsearch-backend.git",
   "author": "CRAB <crab@thomsonreuters.com>",
   "contributors": [
     "Adnane SAGHIR <adnane.saghir@gmail.com>",
